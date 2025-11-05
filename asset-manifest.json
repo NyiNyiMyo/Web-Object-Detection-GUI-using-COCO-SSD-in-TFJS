@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Web-Object-Detection-GUI-using-COCO-SSD-in-TFJS/static/css/main.56c00367.css",
+    "main.js": "/Web-Object-Detection-GUI-using-COCO-SSD-in-TFJS/static/js/main.435cc60c.js",
+    "index.html": "/Web-Object-Detection-GUI-using-COCO-SSD-in-TFJS/index.html",
+    "main.56c00367.css.map": "/Web-Object-Detection-GUI-using-COCO-SSD-in-TFJS/static/css/main.56c00367.css.map",
+    "main.435cc60c.js.map": "/Web-Object-Detection-GUI-using-COCO-SSD-in-TFJS/static/js/main.435cc60c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56c00367.css",
+    "static/js/main.435cc60c.js"
+  ]
+}
